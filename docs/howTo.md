@@ -1,6 +1,5 @@
 ---
 nav_order: 3
-parent: How To's
 title: Canto Name Space
 layout: default
 permalink: howTo
