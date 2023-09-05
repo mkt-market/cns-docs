@@ -39,7 +39,7 @@ To generate a Canto Namespace NFT, users need to acquire **Character Tray NFTs**
 2. Remember that you'll need to mint enough trays to get the characters needed for your desired name.
 3. Click "Mint [X] Trays," then approve and confirm the transaction in your wallet.
 
-![Name Trays](../assets/CNS_2.png)
+![Name Trays](../assets/CNS_2.gif)
 
 ### Step 3: Creating your Namespace
 
