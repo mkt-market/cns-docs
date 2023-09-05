@@ -1,6 +1,6 @@
 ---
 nav_order: 3
-title: Canto Name Space
+title: How to Mint
 layout: default
 permalink: howTo
 ---
