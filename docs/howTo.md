@@ -31,7 +31,7 @@ To generate a Canto Namespace NFT, users need to acquire **Character Tray NFTs**
 1. Click on "Connect Wallet" in the top right-hand corner of the interface.
 2. If this is your first time connecting to Canto Namespace, choose your preferred wallet option.
 
-![Cat](https://drive.google.com/drive/folders/1htACAgnvVI5cC3K9KuDO7EdfB3OqZasg)
+![Wallet Connect](../assets/CNS_1.png)
 
 ### Step 2: Minting Trays
 
@@ -39,7 +39,7 @@ To generate a Canto Namespace NFT, users need to acquire **Character Tray NFTs**
 2. Remember that you'll need to mint enough trays to get the characters needed for your desired name.
 3. Click "Mint [X] Trays," then approve and confirm the transaction in your wallet.
 
-![Cat](https://drive.google.com/drive/folders/1htACAgnvVI5cC3K9KuDO7EdfB3OqZasg)
+![Name Trays](../assets/CNS_2.png)
 
 ### Step 3: Creating your Namespace
 
@@ -56,7 +56,7 @@ Pricing for Fusing:
 - 12 Letters: 1 NOTE
 - 13 Letters: 1 NOTE
 
-![Cat](https://drive.google.com/drive/folders/1htACAgnvVI5cC3K9KuDO7EdfB3OqZasg)
+![Fuse](../assets/CNS_3.png)
 
 **Note**: You can use multiple tiles from a single tray. After fusing a name, the trays used will be burnt, regardless of how many tiles are used. Only letters count toward the "base name," emojis do not. Names must be between 8 to 13 letters.
 
@@ -64,7 +64,7 @@ Pricing for Fusing:
 
 Once fusing is complete, your "Names" will display with your ID#, Display name, and Base name. Share your unique Canto Namespace on Twitter to showcase your identity!
 
-![Cat](https://drive.google.com/drive/folders/1htACAgnvVI5cC3K9KuDO7EdfB3OqZasg)
+![Share Name](../assets/CNS_4.png)
 
 
 # FAQ
