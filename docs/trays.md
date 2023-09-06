@@ -1,5 +1,5 @@
 ---
-nav_order: 0
+nav_order: 2
 parent: Overview
 title: Trays and Tiles
 layout: default
