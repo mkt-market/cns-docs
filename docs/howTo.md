@@ -1,5 +1,5 @@
 ---
-nav_order: 4
+nav_order: 2
 title: How to Mint
 layout: default
 permalink: howTo

@@ -1,8 +1,9 @@
 ---
-nav_order: 3
+nav_order: 1
+parent: Technical
 title: Trays and Tiles
 layout: default
-permalink: trays
+permalink: technical/trays
 ---
 
 # Trays and Tiles
