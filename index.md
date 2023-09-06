@@ -2,7 +2,6 @@
 nav_order: 1
 title: Overview
 layout: default
-permalink: overview
 ---
 
 # Overview
