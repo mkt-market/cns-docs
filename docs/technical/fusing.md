@@ -1,6 +1,6 @@
 ---
 nav_order: 1
-parent: Technical
+parent: Overview
 title: Fusing Names
 layout: default
 permalink: technical/fusing
