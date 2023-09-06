@@ -1,9 +1,8 @@
 ---
 nav_order: 2
-parent: Overview
 title: Trays and Tiles
 layout: default
-permalink: overview/trays
+permalink: trays
 ---
 
 # Trays and Tiles

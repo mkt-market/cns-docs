@@ -1,9 +1,8 @@
 ---
 nav_order: 3
-parent: Overview
 title: Fusing Names
 layout: default
-permalink: technical/fusing
+permalink: fusing
 ---
 
 # Fusing Names
