@@ -3,9 +3,7 @@ nav_order: 1
 title: Overview
 layout: default
 ---
-
 {% seo %}
-
 # Overview
 
 Canto Namespace Protocol (CNS) is a subprotocol for the Canto Identity Protocol that allows users to mint on-chain display names. To [mint a name](fusing.md), users must fuse tiles (characters) from Tray NFTs they have purchased. Tiles include stylized and unstylized Latin letters, numbers, and emojis.

@@ -1,8 +1,9 @@
 title: Canto Namespace Docs
 description: Developer documentation for the Canto Namespace Subprotocol
 theme: just-the-docs
-image: /assets/CNP.jpg
-logo: /assets/CNP.jpg
+favicon_ico: "/assets/CNP.jpg"
+logo: "/assets/CNP.jpg"
+image: "/assets/CNP.jpg"
 
 url: https://docs.cantoname.build
 
