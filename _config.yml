@@ -1,6 +1,7 @@
 title: Canto Namespace Docs
 description: Developer documentation for the Canto Namespace Subprotocol
 theme: just-the-docs
+image: "/assets/CNP.jpg"
 
 url: https://docs.cantoname.build
 
@@ -10,3 +11,6 @@ aux_links:
   CNS Repo: https://github.com/mkt-market/canto-namespace-protocol
   Contribute to Docs: https://github.com/mkt-market/cns-docs
   Canto Identity Protocol Docs: https://docs.cantoidentity.build
+
+plugins:
+  - jekyll-seo-tag
