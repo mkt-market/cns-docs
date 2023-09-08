@@ -2,7 +2,7 @@
 nav_order: 3
 title: Fusing Names
 layout: default
-permalink: fusing
+permalink: cns/fusing
 ---
 
 # Fusing Names

@@ -2,7 +2,7 @@
 nav_order: 2
 title: Trays and Tiles
 layout: default
-permalink: trays
+permalink: cns/trays
 ---
 
 # Trays and Tiles

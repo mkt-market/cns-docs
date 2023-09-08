@@ -2,7 +2,7 @@
 nav_order: 4
 title: How to Mint
 layout: default
-permalink: howTo
+permalink: cns/how-to-mint
 ---
 # Canto Namespace Protocol
 
