@@ -26,6 +26,11 @@ To generate a Canto Namespace NFT, users need to acquire **Character Tray NFTs**
 
 ## Step-by-Step Instructions
 
+### Video Instruction
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gz7B-IIudeg" frameborder="0" allowfullscreen></iframe>
+
+
 ### Step 1: Connecting your Wallet
 
 1. Click on "Connect Wallet" in the top right-hand corner of the interface.
